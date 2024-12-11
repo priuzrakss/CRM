@@ -1,0 +1,195 @@
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001D290BF8ED0>
+C:\Users\prizraks\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+(2, 'No such file or directory')
+False
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001A49D189A90>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000012477EB9B50>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+False
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x00000118ED189BD0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000014F0E92BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+False
+https://docs.google.com/spreadsheets/d/1uQiPWgla_b4wmwqYyEXxmTvBPJmcCaZRiFU8cnTWt8M/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1uQiPWgla_b4wmwqYyEXxmTvBPJmcCaZRiFU8cnTWt8M/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001C27519BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+тест
+G:\Мой диск\Фото для аукционов\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001E8FB54BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+арт.
+арт.
+<defs.logginIssue.CredentialsManager object at 0x000001F583C6BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+False
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000023C3076BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000023F28F1BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001DD2BE5BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000002F395FABEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x00000186BCF8BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000020C9B6FBEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/12l-dxUIL3f30FZD-cFnXCXEZa92w3QdlrZ_LX8GuG2c/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001FBF6C0BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001E3C0A3BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001CD82A5BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1uQiPWgla_b4wmwqYyEXxmTvBPJmcCaZRiFU8cnTWt8M/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1uQiPWgla_b4wmwqYyEXxmTvBPJmcCaZRiFU8cnTWt8M/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x00000274ACC4BEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+тест
+C:\Users\alexo\OneDrive\Изображения\тест\
+True
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000020B671BBEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000019E351EBEE0>
+D:\source\repos\CRM_MENU\CRM_MENU\bin\Debug\net8.0-windows\service_account.json
+True
+Бочки (большие)
+C:\Users\alexo\OneDrive\Изображения\тест\
+False
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1dnf8mpkrsNRLZdtCDMpM_fnzFrB_7HUf8HAnDLN5pJY/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x00000189D82ABEE0>
+D:\CRM\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+True
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x000001599765BEE0>
+D:\CRM\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+True
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000023BD8C2BF70>
+C:\Users\alexo\Desktop\CRM\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+True
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000019DC12EBF70>
+C:\Users\alexo\Desktop\CRM\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+True
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1TmwhnIzfAPnj4A6KgI_TZqxMn8JUPxkHRDsNjuGbCAE/edit?gid=0#gid=0
+<defs.logginIssue.CredentialsManager object at 0x0000012B4279BF70>
+C:\Users\alexo\Desktop\CRM\service_account.json
+True
+Бочки (большие)
+G:\Мой диск\Фото для аукционов\
+True
